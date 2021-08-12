@@ -4,9 +4,9 @@
 ### Python ETL Assignment 1
 #### ETL and analysis using Pandas and text-based menu for user interactions on Auto Dataset.
 
-<li><a href="https://github.com/bjmcnamee/Python_ETL_MTU_Assignments/blob/main/COMP8060_ProjectSpecification-1.pdf">Project Specification</a></li>
-<li><a href="https://github.com/bjmcnamee/Python_ETL_MTU_Assignments/blob/main/data/importsAuto.csv">Dataset</a></li>
-<li><a href="https://github.com/bjmcnamee/Python_ETL_MTU_Assignments/blob/main/McNamee_R00207204_Lab8060.py">Project Code</a></li>
+<li><a href="https://github.com/bjmcnamee/Python_ETL_MTU_Assignments/blob/main/1/COMP8060_ProjectSpecification-1.pdf">Project Specification</a></li>
+<li><a href="https://github.com/bjmcnamee/Python_ETL_MTU_Assignments/blob/main/1/data/importsAuto.csv">Dataset</a></li>
+<li><a href="https://github.com/bjmcnamee/Python_ETL_MTU_Assignments/blob/main/1/McNamee_R00207204_Lab8060.py">Project Code</a></li>
 
 
 
