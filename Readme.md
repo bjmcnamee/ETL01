@@ -45,4 +45,3 @@
   8. Model – the data was split into training and test, and each of three models, trained and tested. Model accuracy was calculated including classification reports and confusion matrices.
   9. Model selection – each model was run with various parameters fixed one at a time and the results written to file for compilation in order find the best model.
 
-[Notebook Code : ETL](/data_code_etc/clean.ipynb) | [Notebook Code : model](/data_code_etc/model.ipynb) | [Conclusions](/data_code_etc/Conclusions.md)
