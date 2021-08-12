@@ -1,4 +1,4 @@
-## Data Science Assignments : Python Programming
+## Data Science Python Assignments
 ![MTU Logo](/1/data/MTU_Logo.jpg)
 
 ### Python ETL Assignment 1
@@ -18,3 +18,8 @@
 <li><a href="https://github.com/bjmcnamee/Python_ETL_MTU_Assignments/blob/main/2/McNamee_R00207204_Project.py">Project Code</a></li>
 <li><a href="https://github.com/bjmcnamee/Python_ETL_MTU_Assignments/blob/main/2/McNamee_R00207204_Report.pdf">Report & Conclusions</a></li>
 
+### Python Machine Learning Assignment 3
+#### Linear Regression (LR)
+
+### Python Machine Learning Assignment 4
+#### Natural language Processing (NLP)
