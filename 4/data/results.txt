@@ -1,0 +1,506 @@
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+Features Selected : article_only
+GRID SEARCH CV (folds) : 5
+GridSearchCV best hyperparameters : 
+KNeighborsClassifier(metric='euclidean', n_neighbors=38, weights='distance')Model : KNeighborsClassifier(metric='euclidean', n_neighbors=38, weights='distance')
+Model Training Accuracy : 98.375%
+Model Test Accuracy : 83.0%
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.75      0.83      0.79       103
+           1       0.81      0.96      0.88        94
+           2       0.87      0.62      0.72       108
+           3       0.91      0.94      0.92        95
+
+    accuracy                           0.83       400
+   macro avg       0.84      0.84      0.83       400
+weighted avg       0.84      0.83      0.83       400
+Duration : 0.1(s)
+*****************************************************
+
+GRID SEARCH CV (folds) : 5
+GridSearchCV best hyperparameters : 
+SVC(C=0.0001, degree=2, gamma=100, kernel='poly', probability=True,
+    random_state=8001)Model : SVC(C=0.0001, degree=2, gamma=100, kernel='poly', probability=True,
+    random_state=8001)
+Model Training Accuracy : 97.4375%
+Model Test Accuracy : 89.5%
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.82      0.93      0.87       103
+           1       0.92      0.96      0.94        94
+           2       0.88      0.78      0.82       108
+           3       0.99      0.93      0.96        95
+
+    accuracy                           0.90       400
+   macro avg       0.90      0.90      0.90       400
+weighted avg       0.90      0.90      0.89       400
+Duration : 2.7(s)
+*****************************************************
+
+Model : MultinomialNB()
+Model Training Accuracy : 86.9375%
+Model Test Accuracy : 86.0%
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.82      0.86      0.84       103
+           1       0.83      0.97      0.89        94
+           2       0.88      0.70      0.78       108
+           3       0.93      0.93      0.93        95
+
+    accuracy                           0.86       400
+   macro avg       0.86      0.87      0.86       400
+weighted avg       0.86      0.86      0.86       400
+Duration : 0.0(s)
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+Features Selected : article_only
+GRID SEARCH CV (folds) : 5
+GridSearchCV best hyperparameters : 
+KNeighborsClassifier(metric='euclidean', n_neighbors=38, weights='distance')Model : KNeighborsClassifier(metric='euclidean', n_neighbors=38, weights='distance')
+Model Training Accuracy : 98.375%
+Model Test Accuracy : 83.0%
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.75      0.83      0.79       103
+           1       0.81      0.96      0.88        94
+           2       0.87      0.62      0.72       108
+           3       0.91      0.94      0.92        95
+
+    accuracy                           0.83       400
+   macro avg       0.84      0.84      0.83       400
+weighted avg       0.84      0.83      0.83       400
+Duration : 0.2(s)
+*****************************************************
+
+GRID SEARCH CV (folds) : 5
+GridSearchCV best hyperparameters : 
+SVC(C=0.0001, degree=2, gamma=100, kernel='poly', probability=True,
+    random_state=8001)Model : SVC(C=0.0001, degree=2, gamma=100, kernel='poly', probability=True,
+    random_state=8001)
+Model Training Accuracy : 97.4375%
+Model Test Accuracy : 89.5%
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.82      0.93      0.87       103
+           1       0.92      0.96      0.94        94
+           2       0.88      0.78      0.82       108
+           3       0.99      0.93      0.96        95
+
+    accuracy                           0.90       400
+   macro avg       0.90      0.90      0.90       400
+weighted avg       0.90      0.90      0.89       400
+Duration : 2.5(s)
+*****************************************************
+
+Model : MultinomialNB()
+Model Training Accuracy : 86.9375%
+Model Test Accuracy : 86.0%
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.82      0.86      0.84       103
+           1       0.83      0.97      0.89        94
+           2       0.88      0.70      0.78       108
+           3       0.93      0.93      0.93        95
+
+    accuracy                           0.86       400
+   macro avg       0.86      0.87      0.86       400
+weighted avg       0.86      0.86      0.86       400
+Duration : 0.0(s)
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+Features Selected : article_only
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+Features Selected : article_only
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+Features Selected : article_only
+GRID SEARCH CV (folds) : 5
+GridSearchCV best hyperparameters : 
+KNeighborsClassifier(metric='euclidean', n_neighbors=38, weights='distance')Model : KNeighborsClassifier(metric='euclidean', n_neighbors=38, weights='distance')
+Model Training Accuracy : 98.375%
+Model Test Accuracy : 83.0%
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.75      0.83      0.79       103
+           1       0.81      0.96      0.88        94
+           2       0.87      0.62      0.72       108
+           3       0.91      0.94      0.92        95
+
+    accuracy                           0.83       400
+   macro avg       0.84      0.84      0.83       400
+weighted avg       0.84      0.83      0.83       400
+Duration : 0.1(s)
+*****************************************************
+
+GRID SEARCH CV (folds) : 5
+GridSearchCV best hyperparameters : 
+SVC(C=0.0001, degree=2, gamma=100, kernel='poly', probability=True,
+    random_state=8001)Model : SVC(C=0.0001, degree=2, gamma=100, kernel='poly', probability=True,
+    random_state=8001)
+Model Training Accuracy : 97.4375%
+Model Test Accuracy : 89.5%
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.82      0.93      0.87       103
+           1       0.92      0.96      0.94        94
+           2       0.88      0.78      0.82       108
+           3       0.99      0.93      0.96        95
+
+    accuracy                           0.90       400
+   macro avg       0.90      0.90      0.90       400
+weighted avg       0.90      0.90      0.89       400
+Duration : 2.4(s)
+*****************************************************
+
+Model : MultinomialNB()
+Model Training Accuracy : 86.9375%
+Model Test Accuracy : 86.0%
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.82      0.86      0.84       103
+           1       0.83      0.97      0.89        94
+           2       0.88      0.70      0.78       108
+           3       0.93      0.93      0.93        95
+
+    accuracy                           0.86       400
+   macro avg       0.86      0.87      0.86       400
+weighted avg       0.86      0.86      0.86       400
+Duration : 0.0(s)
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+Features Selected : article_only
+GRID SEARCH CV (folds) : 5
+GridSearchCV best hyperparameters : 
+KNeighborsClassifier(metric='euclidean', n_neighbors=38, weights='distance')Model : KNeighborsClassifier(metric='euclidean', n_neighbors=38, weights='distance')
+Model Training Accuracy : 98.375%
+Model Test Accuracy : 83.0%
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.75      0.83      0.79       103
+           1       0.81      0.96      0.88        94
+           2       0.87      0.62      0.72       108
+           3       0.91      0.94      0.92        95
+
+    accuracy                           0.83       400
+   macro avg       0.84      0.84      0.83       400
+weighted avg       0.84      0.83      0.83       400
+Duration : 0.1(s)
+*****************************************************
+
+GRID SEARCH CV (folds) : 5
+GridSearchCV best hyperparameters : 
+SVC(C=0.0001, degree=2, gamma=100, kernel='poly', probability=True,
+    random_state=8001)Model : SVC(C=0.0001, degree=2, gamma=100, kernel='poly', probability=True,
+    random_state=8001)
+Model Training Accuracy : 97.4375%
+Model Test Accuracy : 89.5%
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.82      0.93      0.87       103
+           1       0.92      0.96      0.94        94
+           2       0.88      0.78      0.82       108
+           3       0.99      0.93      0.96        95
+
+    accuracy                           0.90       400
+   macro avg       0.90      0.90      0.90       400
+weighted avg       0.90      0.90      0.89       400
+Duration : 2.8(s)
+*****************************************************
+
+Model : MultinomialNB()
+Model Training Accuracy : 86.9375%
+Model Test Accuracy : 86.0%
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.82      0.86      0.84       103
+           1       0.83      0.97      0.89        94
+           2       0.88      0.70      0.78       108
+           3       0.93      0.93      0.93        95
+
+    accuracy                           0.86       400
+   macro avg       0.86      0.87      0.86       400
+weighted avg       0.86      0.86      0.86       400
+Duration : 0.0(s)
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+Features Selected : article_only
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+Features Selected : article_only
+GRID SEARCH CV (folds) : 5
+GridSearchCV best hyperparameters : 
+KNeighborsClassifier(metric='euclidean', n_neighbors=38, weights='distance')Model : KNeighborsClassifier(metric='euclidean', n_neighbors=38, weights='distance')
+Model Training Accuracy : 98.375%
+Model Test Accuracy : 83.0%
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.75      0.83      0.79       103
+           1       0.81      0.96      0.88        94
+           2       0.87      0.62      0.72       108
+           3       0.91      0.94      0.92        95
+
+    accuracy                           0.83       400
+   macro avg       0.84      0.84      0.83       400
+weighted avg       0.84      0.83      0.83       400
+Duration : 0.1(s)
+*****************************************************
+
+GRID SEARCH CV (folds) : 5
+GridSearchCV best hyperparameters : 
+SVC(C=0.0001, degree=2, gamma=100, kernel='poly', probability=True,
+    random_state=8001)Model : SVC(C=0.0001, degree=2, gamma=100, kernel='poly', probability=True,
+    random_state=8001)
+Model Training Accuracy : 97.4375%
+Model Test Accuracy : 89.5%
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.82      0.93      0.87       103
+           1       0.92      0.96      0.94        94
+           2       0.88      0.78      0.82       108
+           3       0.99      0.93      0.96        95
+
+    accuracy                           0.90       400
+   macro avg       0.90      0.90      0.90       400
+weighted avg       0.90      0.90      0.89       400
+Duration : 2.9(s)
+*****************************************************
+
+Model : MultinomialNB()
+Model Training Accuracy : 86.9375%
+Model Test Accuracy : 86.0%
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.82      0.86      0.84       103
+           1       0.83      0.97      0.89        94
+           2       0.88      0.70      0.78       108
+           3       0.93      0.93      0.93        95
+
+    accuracy                           0.86       400
+   macro avg       0.86      0.87      0.86       400
+weighted avg       0.86      0.86      0.86       400
+Duration : 0.0(s)
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+Features Selected : article_only
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+Features Selected : article_only
+GRID SEARCH CV (folds) : 5
+GridSearchCV best hyperparameters : 
+KNeighborsClassifier(metric='euclidean', n_neighbors=38, weights='distance')Model : KNeighborsClassifier(metric='euclidean', n_neighbors=38, weights='distance')
+Model Training Accuracy : 98.375%
+Model Test Accuracy : 83.0%
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.75      0.83      0.79       103
+           1       0.81      0.96      0.88        94
+           2       0.87      0.62      0.72       108
+           3       0.91      0.94      0.92        95
+
+    accuracy                           0.83       400
+   macro avg       0.84      0.84      0.83       400
+weighted avg       0.84      0.83      0.83       400
+Duration : 0.1(s)
+*****************************************************
+
+GRID SEARCH CV (folds) : 5
+GridSearchCV best hyperparameters : 
+SVC(C=0.0001, degree=2, gamma=100, kernel='poly', probability=True,
+    random_state=8001)Model : SVC(C=0.0001, degree=2, gamma=100, kernel='poly', probability=True,
+    random_state=8001)
+Model Training Accuracy : 97.4375%
+Model Test Accuracy : 89.5%
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.82      0.93      0.87       103
+           1       0.92      0.96      0.94        94
+           2       0.88      0.78      0.82       108
+           3       0.99      0.93      0.96        95
+
+    accuracy                           0.90       400
+   macro avg       0.90      0.90      0.90       400
+weighted avg       0.90      0.90      0.89       400
+Duration : 2.4(s)
+*****************************************************
+
+Model : MultinomialNB()
+Model Training Accuracy : 86.9375%
+Model Test Accuracy : 86.0%
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.82      0.86      0.84       103
+           1       0.83      0.97      0.89        94
+           2       0.88      0.70      0.78       108
+           3       0.93      0.93      0.93        95
+
+    accuracy                           0.86       400
+   macro avg       0.86      0.87      0.86       400
+weighted avg       0.86      0.86      0.86       400
+Duration : 0.0(s)
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+Features Selected : article_only
+GRID SEARCH CV (folds) : 5
+GridSearchCV best hyperparameters : 
+KNeighborsClassifier(metric='euclidean', n_neighbors=38, weights='distance')Model : KNeighborsClassifier(metric='euclidean', n_neighbors=38, weights='distance')
+Model Training Accuracy : 98.375%
+Model Test Accuracy : 83.0%
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.75      0.83      0.79       103
+           1       0.81      0.96      0.88        94
+           2       0.87      0.62      0.72       108
+           3       0.91      0.94      0.92        95
+
+    accuracy                           0.83       400
+   macro avg       0.84      0.84      0.83       400
+weighted avg       0.84      0.83      0.83       400
+Duration : 0.1(s)
+*****************************************************
+
+GRID SEARCH CV (folds) : 5
+GridSearchCV best hyperparameters : 
+SVC(C=0.0001, degree=2, gamma=100, kernel='poly', probability=True,
+    random_state=8001)Model : SVC(C=0.0001, degree=2, gamma=100, kernel='poly', probability=True,
+    random_state=8001)
+Model Training Accuracy : 97.4375%
+Model Test Accuracy : 89.5%
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.82      0.93      0.87       103
+           1       0.92      0.96      0.94        94
+           2       0.88      0.78      0.82       108
+           3       0.99      0.93      0.96        95
+
+    accuracy                           0.90       400
+   macro avg       0.90      0.90      0.90       400
+weighted avg       0.90      0.90      0.89       400
+Duration : 2.5(s)
+*****************************************************
+
+Model : MultinomialNB()
+Model Training Accuracy : 86.9375%
+Model Test Accuracy : 86.0%
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.82      0.86      0.84       103
+           1       0.83      0.97      0.89        94
+           2       0.88      0.70      0.78       108
+           3       0.93      0.93      0.93        95
+
+    accuracy                           0.86       400
+   macro avg       0.86      0.87      0.86       400
+weighted avg       0.86      0.86      0.86       400
+Duration : 0.0(s)
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
+PRE-PROCESSING WORD GROUP METHOD : Stem
+*****************************************************
+
