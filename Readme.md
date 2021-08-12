@@ -1,14 +1,14 @@
 ## Data Science Assignments : Python Programming
 ![MTU Logo](/1/data/MTU_Logo.jpg)
 
-# Python ETL Assignment 1
+### Python ETL Assignment 1
 #### ETL and analysis using Pandas and text-based menu for user interactions on Auto Dataset.
 
 <li><a href="https://github.com/bjmcnamee/Python_ETL_MTU_Assignments/blob/main/COMP8060_ProjectSpecification-1.pdf">Project Specification</a></li>
 <li><a href="https://github.com/bjmcnamee/Python_ETL_MTU_Assignments/blob/main/data/importsAuto.csv">Dataset</a></li>
 <li><a href="https://github.com/bjmcnamee/Python_ETL_MTU_Assignments/blob/main/McNamee_R00207204_Lab8060.py">Project Code</a></li>
 
-# Python ETL Assignment 2
+### Python ETL Assignment 2
 #### ETL and analysis using Pandas and text-based menu for user interactions on Census and Nutrition Datasets.
 
 <li><a href="https://github.com/bjmcnamee/Python_ETL_MTU_Assignments/blob/main/2/COMP8060_ProjectSpecification-1.pdf">Project Specifications</a></li>
