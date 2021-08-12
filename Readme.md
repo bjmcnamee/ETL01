@@ -25,3 +25,19 @@
 
 ### Python Machine Learning Assignment 4
 #### Natural language Processing (NLP)
+#### This ML Multiclass project using python and sklearn modules trains and tests three classification models that predict the category of a given news article.
+#### Process
+  1. ETL – 2000 text file documents were imported, filtered by html tag, and content features (headline, article and category) saved to related columns in a Pandas dataframe.
+  2. Explore – a statistical summary and plots shows the data is quite uniform (word count and document category count) with no missing or incomplete features.
+  3. Pre-process – in preparation for running ML models, the text was ‘cleaned’ again removing unwanted punctuation, digits, uppercase and stopwords
+  4. Tokenise – inflected words were reduced to smaller units called token by one of two functions, Stem and Lemmatise, eg caring → car or caring → care
+  5. Vectorise – the remaining words were converted to float numbers using a frequency–inverse document frequency TF-IDF method. 
+  6. Model – 3 multiclass classifcation models were selected
+      1. K Nearest Neighbour (KNN)
+      2. Support Vector Machine (SVM)
+      3. Multinomial Naive Bayes (MNB).
+  7. Tune Model - Grid Search was applied to each model to discover the best hyperparameters and values.
+  8. Model – the data was split into training and test, and each of three models, trained and tested. Model accuracy was calculated including classification reports and confusion matrices.
+  9. Model selection – each model was run with various parameters fixed one at a time and the results written to file for compilation in order find the best model.
+
+[Notebook Code : ETL](/data_code_etc/clean.ipynb) | [Notebook Code : model](/data_code_etc/model.ipynb) | [Conclusions](/data_code_etc/Conclusions.md)
