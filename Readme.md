@@ -25,6 +25,11 @@
 
 ### Python Machine Learning Assignment 4
 #### Natural language Processing (NLP)
+<li><a href="https://github.com/bjmcnamee/ETL_and_ML_Python_Assignments/blob/main/4/DATA8001%20Assignment%202%20Instructions.pdf">Project Specifications</a></li>
+<li><a href="https://github.com/bjmcnamee/ETL_and_ML_Python_Assignments/blob/main/4/data">Datasets (input and output)</a></li>
+<li><a href="https://github.com/bjmcnamee/ETL_and_ML_Python_Assignments/blob/main/4/R00207204_A2_Notebook.ipynb">Project Code</a></li>
+<li><a href="https://github.com/bjmcnamee/ETL_and_ML_Python_Assignments/blob/main/4/R00207204_A2_Report.pdf">Report & Conclusions</a></li>
+
 #### This ML Multiclass project using python and sklearn modules trains and tests three classification models that predict the category of a given news article.
 #### Process
   1. ETL – 2000 text file documents were imported, filtered by html tag, and content features (headline, article and category) saved to related columns in a Pandas dataframe.
