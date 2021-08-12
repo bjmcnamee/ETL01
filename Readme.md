@@ -1,4 +1,4 @@
-# Python ETL Assignment 1
+## Data Science Assignments : Python Programming
 ![MTU Logo](/data/MTU_Logo.jpg)
 #### ETL and analysis using Pandas and text-based menu for user interactions on Auto Dataset.
 
