@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-os.chdir('/home/barnyard/spyder/scripts/college/Ass')
+os.chdir('/home/barnyard/spyder/scripts/college/Ass1')
 files = [f for f in os.listdir('.') if os.path.isfile(f)]
 for f in files:
       print (f)
