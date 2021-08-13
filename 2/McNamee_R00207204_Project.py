@@ -1,7 +1,7 @@
 """
 import os
 os.getcwd()
-os.chdir('/home/barnyard/0python/college/Ass2')
+os.chdir('/home/barnyard/0python/college/MTU_Python_Projects/2')
 os.getcwd()
 files = [f for f in os.listdir('.') if os.path.isfile(f)]
 for f in files:
