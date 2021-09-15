@@ -2,14 +2,14 @@
 ![MTU Logo](/1/data/MTU_Logo.jpg)
 
 ### ETL Project 1
-#### ETL and analysis using Pandas and text-based menu for user interactions on Auto Dataset.
+#### ETL and analysis on Auto Dataset using Pandas
 
 <li><a href="https://github.com/bjmcnamee/ETL_and_ML_Python_Assignments/blob/main/1/COMP8060_ProjectSpecification-1.pdf">Project Specification</a></li>
 <li><a href="https://github.com/bjmcnamee/ETL_and_ML_Python_Assignments/blob/main/1/data/importsAuto.csv">Dataset</a></li>
 <li><a href="https://github.com/bjmcnamee/ETL_and_ML_Python_Assignments/blob/main/1/McNamee_R00207204_Lab8060.py">Project Code</a></li>
 
 ### ETL Project 2
-#### ETL and analysis using Pandas and text-based menu for user interactions on Census and Nutrition Datasets.
+#### ETL and analysis on Census and Nutrition Datasets using Pandas
 
 <li><a href="https://github.com/bjmcnamee/ETL_and_ML_Python_Assignments/blob/main/2/COMP8060_ProjectSpecification-1.pdf">Project Specifications</a></li>
 <li><a href="https://github.com/bjmcnamee/ETL_and_ML_Python_Assignments/blob/main/2/data">Datasets (input and output)</a></li>
